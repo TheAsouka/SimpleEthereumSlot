@@ -1,5 +1,5 @@
 # SimpleEthereumSlot
-A simple slot machine in Python working on a local Ethereum blockchain using Web3 library.   
+A simple slot machine in Python3.9 working on a local Ethereum blockchain using Web3 library.   
 We love slots, we love blockchain.  
 
 # WARNING 
