@@ -27,7 +27,7 @@ The principle of this slot is basic. It's a 3 lines 5 reels slot.
 If 3 or more symbols are adjacent on different reels and maximum one line away there is a connection.  
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example.PNG "Spin example")  
 Is this example 4 symbols are connected (blue line). Other symbols aren't connected because there are too far away from other symbols (red line).  
-![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example2.PNG "Spin explanation")  
+![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example2.jpg "Spin explanation")  
 
 The symbols occurence is setup in the ```createReels()``` function.  
 The symbols payrate is setup in the ```calculateWins()``` function line ```157```.  
