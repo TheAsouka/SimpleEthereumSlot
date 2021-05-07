@@ -18,7 +18,7 @@ You also need the Web3 Python library, install it via pip.\
 
 Once Ganache is installed, copy the first account (casino) address and replace lines ```240``` and ```258```.  
 Then copy the first account (casino) private key and replace line ```259```.  
-When lauching the script a prompt is asking to copy the user's address and private key.  
+When lauching the script a prompt is asking for the user's address and private key.  
 Copy these from the second Ganache account.  
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/ganache.PNG "Ganache UI")
 
