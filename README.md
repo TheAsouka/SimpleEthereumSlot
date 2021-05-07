@@ -5,7 +5,8 @@ We love slots, we love blockchain.
 # WARNING 
 Don't use this script on the Ethereum Mainnet !  
 Private keys are exposed and network fees (in mid 2021) are way too expensive.  
-Exposing your private key may result in funds lose.
+Exposing your private key may result in funds loss.  
+Don't send Ether on address exposed in this script or in this readme, it will result in funds loss.
 
 # How to use
 You need Ganache in order to have your own local blockchain. You can download it by clicking [this link](https://www.trufflesuite.com/ganache).  
@@ -20,3 +21,8 @@ Then copy the first account (casino) private key and replace line ```259```.
 When lauching the script a prompt is asking to copy the user's address and private key.  
 Copy these from the second Ganache account.  
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/ganache.PNG "Ganache UI")
+
+# How it works
+The principle of this slot is basic.  
+If 3 or more symbols are adjacent there is a connection.
+![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example.PNG "Spin example")
