@@ -24,5 +24,5 @@ Copy these from the second Ganache account.
 
 # How it works
 The principle of this slot is basic.  
-If 3 or more symbols are adjacent there is a connection.
+If 3 or more symbols are adjacent there is a connection.  
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example.PNG "Spin example")
