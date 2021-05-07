@@ -1,15 +1,8 @@
 # SimpleEthereumSlot
 A simple slot machine in Python working on a local Ethereum blockchain using Web3 library.   
 We love slots, we love blockchain.  
-<div class="panel panel-warning">
 **Warning**
-{: .panel-heading}
-<div class="panel-body">
 
-WARNING DESCRIPTION
-
-</div>
-</div>
 
 # How to use
 You need Ganache in order to have your own local blockchain. You can download it by clicking [this link](https://www.trufflesuite.com/ganache).  
