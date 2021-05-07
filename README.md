@@ -19,4 +19,4 @@ Once Ganache is installed, copy the first account (casino) address and replace l
 Then copy the first account (casino) private key and replace line ```259```.  
 When lauching the script a prompt is asking to copy the user's address and private key.  
 Copy these from the second Ganache account.  
-![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/img/ganache.png "Ganache UI")
+![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/ganache.PNG "Ganache UI")
