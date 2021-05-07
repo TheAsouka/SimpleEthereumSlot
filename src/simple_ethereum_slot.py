@@ -293,11 +293,11 @@ def main():
     s_choice = ""
     print ("*** Welcome to LuckySticky ***")
 
-    user_account = "0xd70d7D062951eCfDf7f1Bec48C2fD005536c6CFf"#input("Your Ethereum address : ")
+    user_account = input("Your Ethereum address : ")
     while checkAddressFormat(user_account) != True:
         user_account = input("Your Ethereum address : ")
 
-    user_privkey = "be231707ef1b50d265b99a6f64e80a9a2c19549cb725a165b5e25e0bc82718a0"#input("Your Ethereum private key (tktcsafemdr) : ")
+    user_privkey = input("Your Ethereum private key (tktcsafemdr) : ")
     while checkPrivKeyFormat(user_privkey) != True:
         user_privkey = input("Your Ethereum private key (tktcsafemdr) : ")
 
