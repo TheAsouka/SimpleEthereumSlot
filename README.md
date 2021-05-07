@@ -2,7 +2,7 @@
 A simple slot machine in Python working on a local Ethereum blockchain using Web3 library.   
 We love slots, we love blockchain.  
 
-# WARNING 
+<span style="color:red"># WARNING</span>   
 Don't use this script on the Ethereum Mainnet !  
 Private keys are exposed and network fees (in mid 2021) are too expensive.
 
