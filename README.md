@@ -23,7 +23,8 @@ Copy these from the second Ganache account.
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/ganache.PNG "Ganache UI")
 
 # How it works
-The principle of this slot is basic.  
-If 3 or more symbols are adjacent on different reels there is a connection.  
+The principle of this slot is basic. It's a 3 lines 5 reels slot.  
+If 3 or more symbols are adjacent on different reels and maximum one line away there is a connection.  
 ![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example.PNG "Spin example")  
-Is this example 4 symbols are connected.  
+Is this example 4 symbols are connected (blue line). Other symbols aren't connected because there are too far away from other symbols (red line).
+![alt text](https://github.com/TheAsouka/SimpleEthereumSlot/blob/main/img/example.PNG "Spin explanation")
