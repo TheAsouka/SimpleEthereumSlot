@@ -36,6 +36,7 @@ The symbols payrate is setup in the ```calculateWins()``` function line ```157``
 There is many things to improve in this script. Especially the randomness and payrate, to be fairer for both parts (casino and user).  
 I will glade to discuss about it, just open an issue on this repo.  
 Next step could be to developp this kind of slot to a webapp using Javascript and front-end libraries and also use Metamask to deal with key management.  
+Also create a smart contract in Solidity to act as the casino and keep track of user's transactions.
 
 # Support
 If you like this project and want to be genereous, feel free to send ETH on this address.  
